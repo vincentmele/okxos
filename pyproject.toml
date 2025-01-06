@@ -1,6 +1,6 @@
 [project]
 name = "okxos"
-version = 0.1
+version = "0.1"
 dependencies = []
 requires-python = ">= 3.7"
 authors = [
