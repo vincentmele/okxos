@@ -1,0 +1,18 @@
+[project]
+name = "okxos"
+version = 0.1
+dependencies = []
+requires-python = ">= 3.7"
+authors = [
+    {name = "Vincent Mele", email = "vince@otranto.mc"}
+]
+maintainers = [
+    {name = "Vincent Mele", email = "vince@otranto.mc"}
+]
+description = "This is a Python library for the OKX OS API."
+readme = "README.md"
+license = {text = "MIT License"}
+
+[project.urls]
+Homepage = "https://github.com/vincentmele/okxos/"
+
