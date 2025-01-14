@@ -14,4 +14,4 @@ pip install git+https://github.com/vincentmele/okxos
 
 ## Supported Endpoints
 
-
+So far this library is very limited... Please don't have any expectations.
